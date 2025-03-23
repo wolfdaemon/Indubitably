@@ -1,0 +1,26 @@
+/**
+ * @name Indubitably
+ * @author Michael "Cal" Krug (@wolfdaemon)
+ * @description An elegant theme, befitting of a scholar of days old.
+ * @version 0.0.1
+ */
+
+:root {
+	/* TODO: PROVIDE METHOD OF DOWNLOAD FOR FONT */
+	--font-primary: "Bitter";
+	--text-link: #4e8cdd; /* color of links in chat */
+	--text-normal: #5b4636; /* color of normal text in chat */
+	--text-muted: #5b4636; /* color of "muted" or accented text, such as for: display names, placeholder text, etc. */
+
+	--primary-500: #5b4636; /* various icons, but not the full set. TODO: investigate color for the channel icons in servers */
+
+	--background-primary: #f4ecd8;
+	--background-secondary: #f4ecd8;
+	--background-secondary-alt: #f4ecd8; /* background of username div under channels */
+	--background-tertiary: #f4ecd8;
+	--white: #4e8cdd;
+
+	--channeltextarea-background: #f4ecd8; /* background of textarea for sending a message in channels */
+	--channels-default: #5b4636; /* color of text for channels in a server */
+
+}
