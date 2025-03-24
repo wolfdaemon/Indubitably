@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
 /**
  * @name Indubitably
  * @author Michael "Cal" Krug (@wolfdaemon)
@@ -6,8 +5,9 @@
  * @version 0.0.1
  */
 
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
+
 :root {
-	/* TODO: PROVIDE METHOD OF DOWNLOAD FOR FONT */
 	--font-primary: "Bitter";
 	--text-link: #4e8cdd; /* color of links in chat */
 	--text-normal: #5b4636; /* color of normal text in chat */
@@ -19,7 +19,7 @@
 	--background-secondary: #f4ecd8;
 	--background-secondary-alt: #f4ecd8; /* background of username div under channels */
 	--background-tertiary: #f4ecd8;
-	--white: #4e8cdd;
+	--white: #f4ecd8;
 
 	--channeltextarea-background: #f4ecd8; /* background of textarea for sending a message in channels */
 	--channels-default: #5b4636; /* color of text for channels in a server */
