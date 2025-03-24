@@ -21,6 +21,8 @@
 	--background-tertiary: #f4ecd8;
 	--white: #f4ecd8;
 
+	--home-background: #f4ecd8; /* background of header bar in Discord Forums */
+
 	--channeltextarea-background: #f4ecd8; /* background of textarea for sending a message in channels */
 	--channels-default: #5b4636; /* color of text for channels in a server */
 
