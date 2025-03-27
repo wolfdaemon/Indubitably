@@ -6,3 +6,5 @@ A [Vesktop](https://github.com/Vencord/Vesktop) (Discord client) theme that prov
 ```bash
 mv indubitably.theme.css .var/app/dev.vencord.Vesktop/config/vesktop/themes/
 ```
+## Setup
+Settings > App Settings > Appearance > Themes > Default Themes > Light Theme
